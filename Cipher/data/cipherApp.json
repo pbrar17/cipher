@@ -1,0 +1,14 @@
+{"ciphers": [
+    {
+        "name": "atbash",
+        "key": "zyxwvutsrqponmlkjihgfedcba"
+    },
+    {
+        "name": "rot",
+        "key": "nopqrstuvwxyzabcdefghijklm"
+    },
+    {
+        "name": "caesar",
+        "key": "bcdefghijklmnopqrstuvwxyza"
+    }
+]}

@@ -1,0 +1,10 @@
+{"ciphers": [
+    {
+        "name": "caesar",
+        "key": "bcdefghijklmnopqrstuvwxyza"
+    },
+    {
+        "name": "rot",
+        "key": "nopqrstuvwxyzabcdefghijklm"
+    }
+]}
